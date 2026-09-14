@@ -67,8 +67,7 @@ public class Main {
         } else if (amount < 0) {
             System.out.println("Amount can not be negative");
             return 0;
-        }
-        else {
+        } else {
             return amount;
         }
     }
